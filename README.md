@@ -19,7 +19,7 @@ Make sure you have Java (JDK) installed.
 
 Clone or download this repository:
 
-git clone https://github.com/yourusername/GradeCalculator.git
+git clone https://github.com/Dsnehith28/GradeCalculator.git
 cd GradeCalculator
 
 
